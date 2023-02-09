@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TenzinRabyang
-- 👀 I’m interested in Statistic 
-- 🌱 I’m currently learning Big Data Analytics
-- 💞️ I’m Interest on Data Engineering and Warehouse
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Analytics crouse provided by Google
+- 💞️ I’m love DATA
 - 📫 How to reach me https://www.linkedin.com/in/tenzin-rabyang-77059214b/
 
 <!---
